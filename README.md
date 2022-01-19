@@ -1,1 +1,3 @@
-# customer-churn-prediction
+# Customer Churn Prediction
+
+The dataset used in the analysis was downloaded from [IBM Business Analytics Community](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113). It represents customer data for a fictional Telecom company. Though the IBM community has previously used this dataset as a tutorial for random forest modeling, the purpose of this notebook is to (i) construct a data exploration from scratch to groom skills and best practices, (ii) test the utility of several modeling approaches, and (iii) potentially draw new and unique conclusions.
